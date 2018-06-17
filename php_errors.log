@@ -1,0 +1,14 @@
+[17-Jun-2018 00:15:11 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/ubuntu/workspace/program1/Numbers.php on line 5
+[17-Jun-2018 00:15:37 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/ubuntu/workspace/program1/Numbers.php on line 5
+[17-Jun-2018 00:15:39 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/ubuntu/workspace/program1/Numbers.php on line 5
+[17-Jun-2018 00:16:57 UTC] PHP Parse error:  syntax error, unexpected 'Numbers' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/program1/Numbers.php on line 35
+[17-Jun-2018 00:28:43 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/program1/Numbers.php on line 11
+[17-Jun-2018 00:28:43 UTC] PHP Stack trace:
+[17-Jun-2018 00:28:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/program1/Numbers.php:0
+[17-Jun-2018 00:28:43 UTC] PHP   2. oneNumber() /home/ubuntu/workspace/program1/Numbers.php:52
+[17-Jun-2018 00:28:43 UTC] PHP   3. rand() /home/ubuntu/workspace/program1/Numbers.php:11
+[17-Jun-2018 03:12:38 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/program1/Numbers.php on line 11
+[17-Jun-2018 03:12:38 UTC] PHP Stack trace:
+[17-Jun-2018 03:12:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/program1/Numbers.php:0
+[17-Jun-2018 03:12:38 UTC] PHP   2. oneNumber() /home/ubuntu/workspace/program1/Numbers.php:52
+[17-Jun-2018 03:12:38 UTC] PHP   3. rand() /home/ubuntu/workspace/program1/Numbers.php:11
