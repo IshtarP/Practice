@@ -31,7 +31,7 @@ function oneNumber() {
             }
             
             body {
-                background-color: pink;
+                background-color: gray;
             }
             #box {
                
