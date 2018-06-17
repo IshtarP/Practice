@@ -73,7 +73,7 @@ function oneNumber() {
         
         <form id="box">
             
-             <button type="submit" class="btn btn-default">New Numbers</button>
+             <button type="submit" class="btn btn-danger">New Numbers</button>
         </form>
         
     </body>
