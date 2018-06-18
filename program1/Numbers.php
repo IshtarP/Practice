@@ -2,13 +2,13 @@
 // Create 5 random numbers to be displayed
 function numbers() {
 for($i = 0; $i < 5; $i++ ) {
-    echo " " , (rand(1,69));
+    echo " " , (rand(1,70));
     }
 }
 
 // Create 1 random Number
 function oneNumber() {
-    echo (rand(1,29));
+    echo (rand(1,30));
    
 }
 
@@ -31,7 +31,7 @@ function oneNumber() {
             }
             
             body {
-                background-color: gray;
+                background-color: silver;
             }
             #box {
                
